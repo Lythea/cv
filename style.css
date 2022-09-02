@@ -14,8 +14,12 @@
 .name {
   font-family: 'Sacramento', cursive;
   font-size:40px;
-
 }
+.h2{
+  font-family:'Anton';
+  font-size:25px;
+}
+
 .under{
   text-decoration:underline;
 }
@@ -87,8 +91,8 @@
   background-color:gold;
 }
 .s2 {
-  border-radius: 3px;
-  width: 130px;
+  border-radius: 5px;
+  width: 150px;
 }
 .t1{
   text-align:left;
@@ -99,4 +103,9 @@
 }
 .E1{
   text-align:left;
+}
+.hobbies{
+  margin-left:auto;
+  margin-right:auto;
+  text-align: center;
 }
