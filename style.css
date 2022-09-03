@@ -41,6 +41,14 @@
   left: 80%;
   margin-right:15px;
 }
+.hb{
+  border-radius: 8px;
+  width: 200px;
+  text-align: center;
+  top: 34%;
+  left: 80%;
+  margin-right:15px;
+}
 .txt{
   font-size:30px;
   position:absolute;
